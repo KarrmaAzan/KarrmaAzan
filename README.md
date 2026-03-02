@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KarrmaAzan
+- 👋 Hi, I’m Jordan
 - 👀 I’m interested in ... Anything Tech
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Anything
