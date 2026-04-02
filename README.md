@@ -1,39 +1,39 @@
 ![Banner](./banner.png)
 
-# 👁️ Jordan Golden
+# Jordan Golden
 
 **Full Stack Engineer | MERN & PERN | Building Soul Link**
 
 ---
 
-## 🧠 About
+## About
 I build mobile-first applications and scalable backend systems.
 
 Currently developing **Soul Link**, a multi-persona social platform focused on identity, connection, and authentic interaction.
 
 ---
 
-## ⚙️ Tech
+## Tech
 TypeScript • JavaScript • React • React Native (Expo)  
 Node.js • Express • PostgreSQL • MongoDB  
 Three.js • Material UI • Styled Components  
 
 ---
 
-## 🚀 Focus
+## Focus
 - Soul Link
 - System Design
 - Mobile-First Development
 
 ---
 
-## 🌌 Work
+## Work
 - Soul Link  
 - Portfolio  
 
-👉 View more: https://iamjordangolden.com
+View more: https://karrmas-mind.vercel.app/
 
 ---
 
-## 📫 Connect
+## Connect
 LinkedIn: https://linkedin.com/in/jordan-a-golden
