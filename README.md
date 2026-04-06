@@ -31,7 +31,7 @@ Three.js • Material UI • Styled Components
 - Soul Link  
 - Portfolio  
 
-View more: https://karrmas-mind.vercel.app/
+View more: https://iamjordangolden.com
 
 ---
 
